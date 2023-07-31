@@ -85,7 +85,6 @@ body{
 /* ------------------------ */
 /* HEADER */
 /* ------------------------ */
-
 .header{
   grid-area: header;
   background-color: #fff;
@@ -143,7 +142,6 @@ body{
   .header .div-logo img{
   width: 80px;
   }
-
 
   .header .header-container{
   padding: 10px;
@@ -465,9 +463,12 @@ body{
   width: 100%;
 }
 
+.btn-sabermais{
+  color: #fff;
+}
 
 .consultas .image.left{
-  background: url('src/images/curso.png') center no-repeat;
+  background: url('../images/curso-2.png') center no-repeat;
   background-size: cover;
 }
 
@@ -533,8 +534,9 @@ body{
 
   .fa-clock,
   .fa-location-dot{
-  font-size: 1.5em;
+  font-size: 1.3em;
   }
+  
 
 }
 
