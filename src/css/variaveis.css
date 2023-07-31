@@ -1,0 +1,9 @@
+:root{
+  --max-width-size: 1920px;
+  --font-principal: 'Montserrat',sans-serif;
+  --font-secundaria: 'Roboto',sans-serif;
+  --cor-principal: #0DDB76;
+  --cor-secundaria: #021f5e;
+  --cor-secundaria-hover: #143576;
+  --cor-cinza: #181818;
+}
