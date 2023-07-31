@@ -167,7 +167,7 @@ body{
   background-image: linear-gradient(
     rgb(0, 0, 0, 0.54),
     rgba(2, 14, 44, 0.97)),
-    url('src/images/hero-bg.jpg');
+    url('/src/images/hero-bg.jpg');
   background-position: center;
   background-size: cover;
   display: flex;
@@ -178,7 +178,7 @@ body{
 
 .hero:after{
   position: absolute;
-  content: url('src/images/seta_preta.png');
+  content: url('/src/images/seta_preta.png');
   height: 35px;
   bottom: 40px;
   left: 50%;
@@ -463,7 +463,7 @@ body{
 
 
 .consultas .image.left{
-  background: url('src/images/curso.png') top no-repeat;
+  background: url(/src/images/curso.png) center no-repeat;
   background-size: cover;
 }
 
