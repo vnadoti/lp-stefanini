@@ -640,6 +640,11 @@ body{
   text-align: center;
 }
 
+.btn-curso:hover{
+  background-color: var(--cor-secundaria);
+  color: #fff;
+}
+
 .btn-esgotado{
   margin-top: 10px;
   padding: 10px 10px;
