@@ -168,7 +168,7 @@ body{
   background-image: linear-gradient(
     rgb(0, 0, 0, 0.54),
     rgba(2, 14, 44, 0.97)),
-    url('../images/hero-bg.jpg');
+    url('..src/images/hero-bg.jpg');
   background-position: center;
   background-size: cover;
   display: flex;
@@ -179,7 +179,7 @@ body{
 
 .hero:after{
   position: absolute;
-  content: url('../images/seta_preta.png');
+  content: url('..src/images/seta_preta.png');
   height: 35px;
   bottom: 40px;
   left: 50%;
