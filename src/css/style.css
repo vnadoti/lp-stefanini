@@ -158,8 +158,9 @@ body{
 
 }
 
-
-/* Hero Section */
+/* ------------------------ */
+/* HERO SECTION */
+/* ------------------------ */
 .hero{
   grid-area: hero;
   height: 78vh;
@@ -318,8 +319,9 @@ body{
   }
 } 
 
-
-/* About */
+/* ------------------------ */
+/* ABOUT */
+/* ------------------------ */
 .about{
   grid-area: about;
   background-color: #fff;
@@ -446,7 +448,9 @@ body{
   }
 } 
 
-/* Consultas */
+/* ------------------------ */
+/* CONSULTAS */
+/* ------------------------ */
 .consultas{
   grid-area: consultas;
   display: grid;
@@ -534,7 +538,9 @@ body{
 
 }
 
-/* Cursos */
+/* ------------------------ */
+/* CURSOS */
+/* ------------------------ */
 .cursos {
   grid-area: cursos;
   background-color: var(--cor-cinza);
@@ -711,7 +717,9 @@ body{
 
 } 
 
-/* Turmas */
+/* ------------------------ */
+/* TURMAS */
+/* ------------------------ */
 .turmas-container{
   grid-area: turmas;
   display: grid;
@@ -746,8 +754,9 @@ body{
   }
 } 
 
-
-/*  FOOTER */
+/* ------------------------ */
+/* FOOTER */
+/* ------------------------ */
 .footer{
   grid-area: footer;
   background-color: var(--cor-principal);
