@@ -467,7 +467,7 @@ body{
 
 
 .consultas .image.left{
-  background: url(/src/images/curso.png) center no-repeat;
+  background: url('src/images/curso.png') center no-repeat;
   background-size: cover;
 }
 
