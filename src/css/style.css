@@ -465,6 +465,7 @@ body{
 
 .btn-sabermais{
   color: #fff;
+  background-color: var(--cor-secundaria);
 }
 
 .consultas .image.left{
