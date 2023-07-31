@@ -248,7 +248,7 @@ body{
   color: var(--cor-principal);
 }
 
-.btn-sabermais{ 
+.btn-sabermais >a:link {
   background-color: var(--cor-secundaria);
   color: #fff;
 }
@@ -734,7 +734,7 @@ body{
 }
 
 .turmas img:hover{
-  opacity: 0.8; 
+  opacity: 0.5; 
 }
 
 /* RESPONSIVO TUMAS TABLET */
