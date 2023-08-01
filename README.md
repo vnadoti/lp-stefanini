@@ -4,8 +4,13 @@ Projeto realizado durante as aulas do curso de HTML e CSS, em especial o módulo
 
 ## 🖼️ Visualize
 
+Desktop 
 <br>
-<img align="center" alt="Desktop"  width="90%" src="https://i.postimg.cc/mD6b4vfX/Anima-o.gif">
+<img align="center" alt="Desktop"  width="90%" src="https://i.postimg.cc/9FTkFrjs/desktop.gif">
+<br>
+Mobile
+<br>
+<img align="right" alt="Mobile"  width="90%" src="https://i.postimg.cc/k5NYNZ5s/mobile.gif">
 <br>
 
 ## 💡 Desafios 
