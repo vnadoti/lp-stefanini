@@ -6,11 +6,16 @@ Projeto realizado durante as aulas do curso de HTML e CSS, em especial o módulo
 
 Desktop 
 <br>
+
 <img align="center" alt="Desktop"  width="90%" src="https://i.postimg.cc/9FTkFrjs/desktop.gif">
+
 <br>
+
 Mobile
 <br>
-<img align="right" alt="Mobile"  width="90%" src="https://i.postimg.cc/k5NYNZ5s/mobile.gif">
+
+<img align="center" alt="Mobile"  width="90%" src="https://i.postimg.cc/k5NYNZ5s/mobile.gif">
+
 <br>
 
 ## 💡 Desafios 
